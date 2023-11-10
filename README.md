@@ -8,9 +8,9 @@ using the bookmarklet it loads javascript/css/html client side on ChatGpt
 
 ## How to make a BYTE account
 # go to 
-BYTE[https://bytesolutions.dev/]
+BYTE [https://bytesolutions.dev/]
 or if thats blocked for you go to
-BYTE.ploosh[https://bytesolutions.dev/]
+BYTE.ploosh [https://bytesolutions.dev/]
 
 ## Copy this into a bookmark on your browser:
 
