@@ -7,8 +7,7 @@ I'm part of a team of devs named BYTE, but this is a solo project made by me onl
 using the bookmarklet it loads javascript/css/html client side on ChatGpt
 
 ## How to make a BYTE account
-#
-go to 
+# go to 
 https://bytesolutions.dev/
 or if thats blocked for you go to
 https://byte.ploosh.dev/#
