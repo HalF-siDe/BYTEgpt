@@ -4,7 +4,7 @@ Hi, my name is HalF.
 I'm part of a team of devs named BYTE, but this is a solo project made by me only.
 
 ## How it works:
-using the bookmarklet 
+using the bookmarklet it loads javascript/css/html client side on ChatGpt
 
 
 ## Copy this into a bookmark on your browser:
