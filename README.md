@@ -6,6 +6,12 @@ I'm part of a team of devs named BYTE, but this is a solo project made by me onl
 ## How it works:
 using the bookmarklet it loads javascript/css/html client side on ChatGpt
 
+## How to make a BYTE account
+#
+go to 
+https://bytesolutions.dev/
+or if thats blocked for you go to
+https://byte.ploosh.dev/#
 
 ## Copy this into a bookmark on your browser:
 
