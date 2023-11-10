@@ -8,10 +8,7 @@ using a bookmarklet to run JavaScript code client-side, it optimizes performance
 
 ## Copy this into a bookmark on your browser
 
-```javascript
-(function() {
-    var script = document.createElement('script');
-    script.src = 'https://raw.githubusercontent.com/HalF-siDe/BYTEgpt/main/BYTEgpt.md';
-    document.body.appendChild(script);
-})();
+```
+javascript:(function(){var script=document.createElement('script');script.src='https://raw.githubusercontent.com/HalF-siDe/BYTEgpt/main/BYTEgpt.md';document.body.appendChild(script);})();
+
 
