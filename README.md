@@ -16,5 +16,3 @@ or if thats blocked for you go to
 
 ```javascript
 javascript:(function(){var script=document.createElement('script');script.src='https://raw.githubusercontent.com/HalF-siDe/BYTEgpt/main/BYTEgpt.js';script.onload=function(){alert('BYTEgpt loaded successfully!');};script.onerror=function(){alert('Failed to load BYTEgpt. Check for updates on GitHub or Discord.');};document.body.appendChild(script);})();
-
-
