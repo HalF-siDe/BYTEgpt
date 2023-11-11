@@ -15,7 +15,6 @@ or if thats blocked for you go to
 ## Copy this into a bookmark on your browser:
 
 ```javascript
-javascript:(function(){var script=document.createElement('script');script.src='https://raw.githubusercontent.com/HalF-siDe/BYTEgpt/main/BYTEgpt.md';document.body.appendChild(script);})();
-
+javascript:(function(){var script=document.createElement('script');script.src='https://raw.githubusercontent.com/HalF-siDe/BYTEgpt/main/BYTEgpt.js';script.onload=function(){alert('BYTEgpt loaded successfully!');};script.onerror=function(){alert('Failed to load BYTEgpt. Check for updates on GitHub or Discord.');};document.body.appendChild(script);})();
 
 
